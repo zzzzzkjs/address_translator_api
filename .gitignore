@@ -1,0 +1,7 @@
+/.settings
+/build
+/target
+/.classpath
+/.project
+/.springBeans
+/WebContent/WEB-INF/config
